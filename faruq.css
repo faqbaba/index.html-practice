@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(67, 67, 152);
+}
+img{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border:5px solid #333 ;
+}
+ul{
+    color: blueviolet;
+}
+a{
+    color: aqua;
+}
+.p1{
+    color: green;
+}
+.p2{
+    color: cyan;
+}
